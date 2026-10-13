@@ -20,7 +20,7 @@ We need to install platform(OS) specific JVM .
 What is bytecode?
 
 Bytecode is an intermediate code . It is not the high level language.
-Its is the result we get after compiling .java files.
+It is the result we get after compiling .java files(source code).
 
 
 “write once, run anywhere” means 
